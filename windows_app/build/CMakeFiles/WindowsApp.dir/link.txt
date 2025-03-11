@@ -1,0 +1,1 @@
+x86_64-w64-mingw32-g++ -Wl,--dependency-file=CMakeFiles/WindowsApp.dir/link.d CMakeFiles/WindowsApp.dir/main.cpp.o -o WindowsApp.exe
